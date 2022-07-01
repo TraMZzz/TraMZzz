@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rostyslav Stekh</h1>
 <h3 align="center">A charming back-end developer =)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tramzzz&label=Profile%20views&color=0e75b6&style=flat" alt="tramzzz" /> </p>
-
 - 🔭 I’m currently working on **big music project.**
 
 - 🌱 I’m currently learning **Solidity.**
@@ -26,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tramzzz&show_icons=true&locale=en" alt="tramzzz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tramzzz&" alt="tramzzz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tramzzz&label=Profile%20views&color=0e75b6&style=flat" alt="tramzzz" /> </p>
