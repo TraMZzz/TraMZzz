@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tramzzz&label=Profile%20views&color=0e75b6&style=flat" alt="tramzzz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tramzzz" alt="tramzzz" /></a> </p>
-
 - 🔭 I’m currently working on **big music project.**
 
 - 🌱 I’m currently learning **Solidity.**
