@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **any tech-bigness staff.**
 
-- 📫 How to reach me **steh44@gmail.com**
+- 📫 How to reach me **rostyslav.steh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
