@@ -8,7 +8,7 @@
 
 ## About
 
-I'm a software engineer with 10+ years of experience spanning web development, system architecture, and technical leadership. Over my career, I've worked as a hands-on developer, team lead, and CTO, shipping everything from high-load backends to full-featured products, with a focus on reliability, performance, and clean, maintainable architecture.
+I'm a software engineer with 15+ years of experience spanning web development, system architecture, and technical leadership. Over my career, I've worked as a hands-on developer, team lead, and CTO, shipping everything from high-load backends to full-featured products, with a focus on reliability, performance, and clean, maintainable architecture.
 
 In recent years, I've spent on applied AI: building autonomous agents, retrieval-augmented generation pipelines, and LLM-powered automation that solves concrete operational problems rather than chasing demos. Right now, I'm building a productized AI automation practice for small and mid-sized businesses and documenting the engineering behind it in public.
 
